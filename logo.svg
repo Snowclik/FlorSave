@@ -1,0 +1,38 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+  <title id="title">FlorSave Logo</title>
+  
+  <!-- Flor estilizada en un solo color -->
+  
+  <!-- Pétalos traseros -->
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(-15 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(15 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(45 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(75 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(105 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(135 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(165 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(195 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(225 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(255 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(285 100 100)"/>
+  <ellipse cx="100" cy="100" rx="42" ry="19" fill="#FF4D8C" transform="rotate(315 100 100)"/>
+
+  <!-- Pétalos delanteros (más pequeños) -->
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(-30 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(0 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(30 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(60 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(90 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(120 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(150 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(180 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(210 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(240 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(270 100 100)"/>
+  <ellipse cx="100" cy="100" rx="29" ry="13.5" fill="#FF4D8C" transform="rotate(300 100 100)"/>
+
+  <!-- Centro de la flor -->
+  <circle cx="100" cy="100" r="19" fill="#FF4D8C"/>
+  <circle cx="100" cy="100" r="12" fill="#ffffff"/>
+  
+</svg>
